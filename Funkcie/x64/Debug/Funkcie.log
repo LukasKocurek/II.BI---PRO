@@ -1,0 +1,3 @@
+﻿  Funkcie.cpp
+E:\MVS\2\C++\Funkcie\Funkcie.cpp(22): warning C4715: 'pocitaj': not all control paths return a value
+  Funkcie.vcxproj -> E:\MVS\2\C++\Funkcie\x64\Debug\Funkcie.exe

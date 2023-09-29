@@ -1,0 +1,3 @@
+﻿  preco to nefunguje.cpp
+E:\MVS\2\Kocúrek Cv-22\preco to nefunguje.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  preco to nefunguje.vcxproj -> E:\MVS\2\Kocúrek Cv-22\x64\Debug\preco to nefunguje.exe

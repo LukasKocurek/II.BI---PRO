@@ -1,0 +1,3 @@
+﻿  rnd_kocky.cpp
+E:\MVS\rnd_kocky\rnd_kocky.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  rnd_kocky.vcxproj -> E:\MVS\rnd_kocky\x64\Debug\rnd_kocky.exe

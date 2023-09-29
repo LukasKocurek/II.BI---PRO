@@ -1,0 +1,8 @@
+﻿  Polia_teplota.cpp
+E:\MVS\Polia_teplota\Polia_teplota.cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\MVS\Polia_teplota\Polia_teplota.cpp(13,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\MVS\Polia_teplota\Polia_teplota.cpp(40,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\MVS\Polia_teplota\Polia_teplota.cpp(44,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\MVS\Polia_teplota\Polia_teplota.cpp(57,24): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+E:\MVS\Polia_teplota\Polia_teplota.cpp(61,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Polia_teplota.vcxproj -> E:\MVS\Polia_teplota\x64\Debug\Polia_teplota.exe

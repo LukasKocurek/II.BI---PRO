@@ -1,0 +1,2 @@
+E:\MVS\Faktorial\x64\Debug\Faktorial.exe
+E:\MVS\2\Faktorial\x64\Debug\Faktorial.exe

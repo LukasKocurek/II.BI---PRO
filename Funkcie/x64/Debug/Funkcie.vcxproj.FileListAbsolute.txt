@@ -1,0 +1,3 @@
+E:\MVS\Funkcie\x64\Debug\Funkcie.exe
+E:\MVS\2\Funkcie\x64\Debug\Funkcie.exe
+E:\MVS\2\C++\Funkcie\x64\Debug\Funkcie.exe

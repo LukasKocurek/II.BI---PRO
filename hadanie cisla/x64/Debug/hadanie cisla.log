@@ -1,0 +1,3 @@
+﻿  hadanie cisla.cpp
+E:\MVS\2\hadanie cisla\hadanie cisla.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  hadanie cisla.vcxproj -> E:\MVS\2\hadanie cisla\x64\Debug\hadanie cisla.exe

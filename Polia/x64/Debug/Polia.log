@@ -1,0 +1,3 @@
+﻿  Polia.cpp
+E:\MVS\Polia\Polia.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Polia.vcxproj -> E:\MVS\Polia\x64\Debug\Polia.exe
